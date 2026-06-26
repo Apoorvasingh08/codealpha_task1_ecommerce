@@ -1,0 +1,157 @@
+{
+  "users": [
+    {
+      "username": "Apoorva",
+      "email": "singhapoorva860@gmail.com",
+      "password": "$2a$10$kxw1lMBul0Z.UwlhuU1.QOa.PTZ/5HAM8UTodWbgNsNHOFlclxKcK",
+      "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Apoorva",
+      "followers": [],
+      "following": [],
+      "_id": "tmsbe0vyz",
+      "createdAt": "2026-06-26T07:20:45.767Z",
+      "updatedAt": "2026-06-26T07:20:45.767Z"
+    }
+  ],
+  "products": [
+    {
+      "title": "AeroSound Pro - Active Noise Cancelling Headphones",
+      "price": 249.99,
+      "description": "Immersive sound experience with advanced active hybrid noise cancellation, 40-hour battery life, and premium memory foam cups.",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&auto=format&fit=crop&q=60",
+      "category": "Electronics",
+      "rating": {
+        "rate": 4.8,
+        "count": 128
+      },
+      "_id": "uujrfxups",
+      "createdAt": "2026-06-26T07:20:45.795Z",
+      "updatedAt": "2026-06-26T07:20:45.795Z"
+    },
+    {
+      "title": "VoltTrack V3 - Minimalist Smart Watch",
+      "price": 189.99,
+      "description": "Sleek, lightweight body featuring a 1.4-inch AMOLED display, advanced heart rate tracker, blood oxygen sensor, and built-in GPS.",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&auto=format&fit=crop&q=60",
+      "category": "Electronics",
+      "rating": {
+        "rate": 4.6,
+        "count": 95
+      },
+      "_id": "oecmmztex",
+      "createdAt": "2026-06-26T07:20:45.799Z",
+      "updatedAt": "2026-06-26T07:20:45.799Z"
+    },
+    {
+      "title": "AeroGel Ergo - Orthopedic Office Chair",
+      "price": 349,
+      "description": "Ergonomic office chair designed with self-adaptive lumbar support, AeroGel mesh fabric, and 3D adjustable armrests for maximum comfort.",
+      "image": "https://images.unsplash.com/photo-1505797149-43b0069ec26b?w=800&auto=format&fit=crop&q=60",
+      "category": "Home & Office",
+      "rating": {
+        "rate": 4.9,
+        "count": 74
+      },
+      "_id": "llekxwu1d",
+      "createdAt": "2026-06-26T07:20:45.803Z",
+      "updatedAt": "2026-06-26T07:20:45.803Z"
+    },
+    {
+      "title": "Lumina Arch - Smart RGB Floor Lamp",
+      "price": 89.99,
+      "description": "Modern arch floor lamp offering 16 million colors, voice control compatibility, music synchronization, and a sleek brushed metallic finish.",
+      "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=800&auto=format&fit=crop&q=60",
+      "category": "Home & Office",
+      "rating": {
+        "rate": 4.5,
+        "count": 142
+      },
+      "_id": "aoxmd1y4f",
+      "createdAt": "2026-06-26T07:20:45.806Z",
+      "updatedAt": "2026-06-26T07:20:45.806Z"
+    },
+    {
+      "title": "UrbanShield - Waterproof Anti-Theft Backpack",
+      "price": 79.99,
+      "description": "Water-resistant carbon fiber shell backpack with hidden zippers, TSA-approved combination lock, and integrated USB charging port.",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&auto=format&fit=crop&q=60",
+      "category": "Accessories",
+      "rating": {
+        "rate": 4.7,
+        "count": 210
+      },
+      "_id": "eqlwjx3q0",
+      "createdAt": "2026-06-26T07:20:45.811Z",
+      "updatedAt": "2026-06-26T07:20:45.811Z"
+    },
+    {
+      "title": "ThermaBrew - Precision Smart Coffee Kettle",
+      "price": 119.5,
+      "description": "Gooseneck electric kettle with degree-accurate temperature control, LCD display screen, and 30-minute hold function for perfect pour-overs.",
+      "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=800&auto=format&fit=crop&q=60",
+      "category": "Kitchen",
+      "rating": {
+        "rate": 4.8,
+        "count": 83
+      },
+      "_id": "u94mlmgrs",
+      "createdAt": "2026-06-26T07:20:45.814Z",
+      "updatedAt": "2026-06-26T07:20:45.814Z"
+    }
+  ],
+  "orders": [],
+  "posts": [
+    {
+      "userId": "seed_user_1",
+      "username": "design_craft",
+      "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=design_craft",
+      "caption": "Loving the clean shadows and subtle gradients on this new dashboard layout. Feedback is welcome! 🎨✨ #webdesign #uiux #glassmorphism",
+      "image": "https://images.unsplash.com/photo-1541462608143-67571c6738dd?w=800&auto=format&fit=crop&q=60",
+      "likes": [
+        "seed_user_2",
+        "seed_user_3"
+      ],
+      "comments": [
+        {
+          "userId": "seed_user_2",
+          "username": "tech_traveler",
+          "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=tech_traveler",
+          "text": "This is gorgeous! The color harmony is spot on.",
+          "createdAt": "2026-06-26T06:20:46.844Z"
+        },
+        {
+          "userId": "seed_user_3",
+          "username": "code_hustler",
+          "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=code_hustler",
+          "text": "Are you using Tailwind or custom CSS? Clean stuff.",
+          "createdAt": "2026-06-26T06:50:46.844Z"
+        }
+      ],
+      "_id": "eybcmcblo",
+      "createdAt": "2026-06-26T07:21:42.212Z",
+      "updatedAt": "2026-06-26T07:21:42.212Z"
+    },
+    {
+      "userId": "seed_user_2",
+      "username": "tech_traveler",
+      "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=tech_traveler",
+      "caption": "Chasing sunsets and compiling code in the mountains. Remote work at its peak! ⛰️💻 #remotework #developerlife #mountainvibes",
+      "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&auto=format&fit=crop&q=60",
+      "likes": [
+        "seed_user_1"
+      ],
+      "comments": [
+        {
+          "userId": "seed_user_1",
+          "username": "design_craft",
+          "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=design_craft",
+          "text": "Wow, talk about an office view. Insane!",
+          "createdAt": "2026-06-26T05:20:46.844Z"
+        }
+      ],
+      "_id": "utnwxscmw",
+      "createdAt": "2026-06-26T07:21:42.214Z",
+      "updatedAt": "2026-06-26T07:21:42.214Z"
+    }
+  ],
+  "projects": []
+}
